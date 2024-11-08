@@ -5,7 +5,7 @@ Welcome to the PySpark Project Portfolio! This repository showcases three projec
 ## Table of Contents
 1. [Project 1: Bank Marketing Binary Classification](#project-1-bank-marketing-binary-classification)
 2. [Project 2: Movie Recommendation System](#project-2-movie-recommendation-system)
-3. [Project 3: TF-IDF Text Processing with Gettysburg Address](#project-3-tf-idf-text-processing-with-gettysburg-address)
+3. [Project 3: TF-IDF Text Processing](#project-3-tf-idf-text-processing)
 
 ---
 
@@ -46,10 +46,10 @@ Welcome to the PySpark Project Portfolio! This repository showcases three projec
 
 ---
 
-## Project 3: TF-IDF Text Processing with Gettysburg Address
+## Project 3: TF-IDF Text Processing
 **Objective**: Identify the most relevant document based on a target word using TF-IDF.
 
-- **Dataset**: Text excerpts from the Gettysburg Address and similar documents.
+- **Dataset**: Text excerpts from the Gutenberg Project dataset.
 - **Description**: A text-processing project that uses Term Frequency-Inverse Document Frequency (TF-IDF) to rank document relevance based on a target word. This approach showcases PySpark’s handling of text data and feature extraction for document relevance.
 - **Method**: TF-IDF for calculating document relevance scores.
 - **Key Skills**: Text processing, feature extraction, relevance ranking.
