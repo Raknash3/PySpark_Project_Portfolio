@@ -3,9 +3,9 @@
 Welcome to the PySpark Project Portfolio! This repository showcases three projects that demonstrate key data processing and machine learning skills using PySpark. Each project highlights different aspects of PySpark, including data handling, machine learning, recommendation systems, and text processing.
 
 ## Table of Contents
-1. [Project 1: Bank Marketing Binary Classification](#bank-marketing-project)
-2. [Project 2: Movie Recommendation System](#movie-recommendation)
-3. [Project 3: TF-IDF Text Processing with Gettysburg Address](#simple_search_engine)
+1. [Project 1: Bank Marketing Binary Classification](#project-1-bank-marketing-binary-classification)
+2. [Project 2: Movie Recommendation System](#project-2-movie-recommendation-system)
+3. [Project 3: TF-IDF Text Processing with Gettysburg Address](#project-3-tf-idf-text-processing-with-gettysburg-address)
 
 ---
 
